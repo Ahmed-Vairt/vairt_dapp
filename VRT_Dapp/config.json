@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "port": "80",
+    "network":"https://ropsten.infura.io",
+    "adminAccount":"0x8d1b0d315656a75c826b56391cd45d25501a1ee7",
+    "tokenAddress":"0x5fb2be2e472bf35ccae523ef59b2200983c74347",
+    "gasPriceGwei" : "0x09184e72a000",
+    "VRT_Vested":  "1",
+    "VRT_NonVested" : "2"
+}
