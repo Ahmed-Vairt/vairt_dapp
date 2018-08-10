@@ -30,7 +30,7 @@ app.use(helmet())
 const logger = log4js.getLogger('app')
 
 ////////////////// Start Server //////////////////////////////////////////
-http.createServer(app).listen(80, "35.185.101.221");
+http.createServer(app).listen(80, "35.196.122.247");
 console.log('Server Started')
 
 //==================================== END POINTS START HERE =============================
